@@ -1,5 +1,9 @@
-# LAPORAN TUGAS AKHIR KULIAH: PERSISTENSI & SIMULASI REAL-TIME LIVECLASS
-**Mata Kuliah:** Pemrograman Jaringan / Sistem Terdistribusi  
+# LAPORAN FINAL PROJECT LIVECLASS
+
+Nabilah Bunga Sulistia      5025241073
+Callista Fidelya Roba G.    5025241086
+
+**Mata Kuliah:** Pemrograman Jaringan D
 **Nama Aplikasi:** LiveClass  
 **Platform:** Web-based Interactive Classroom with Socket Architecture Simulation  
 
